@@ -1,5 +1,7 @@
 # Tiger Tower I
 
+<img src="https://github.com/Joshua-S24/KHS-VPF-26/blob/main/Float%20Dev.%20Pictures/Tiger%20Tower%20I.JPG" width=25%>
+
 This is a public repository for the Kerr Engineering Club’s vertical profiling float: Tiger Tower I. Tiger Tower I was built for the purpose of completing the 4th (ranger-class) task in the Houston Marine Advanced Technology Education (MATE) Remotely Operated Vehicle Competition.
 
 Task Preview: https://20693798.fs1.hubspotusercontent-na1.net/hubfs/20693798/2026/2026%20MATE%20Floats%20Preview%20Mission\_RANGER\_PIONEER\_FINAL\_Updated\_10\_1.pdf
