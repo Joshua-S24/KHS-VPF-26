@@ -1,0 +1,9 @@
+Below are some details that may or may not have been mentioned.
+
+The arm itself was a 1/2 in. Schedule 40 PVC Pipe. The pipe combined with the Nut Holder had a length of around 5 inches, which was the intended stroke length. I don't necessarily recommend that this particular measurement is used; rather, these were the measurements that the STL files were built around.
+The nut and rod used were probably not M7. It was far more likely that both were 1/4 inches.
+
+Gear Generator Schematic: https://geargenerator.com/beta/#7Xs3O4uCM4uCitlalqqupTsWBwa3Z6rfplq08ClQvyL1rI$ydaN6QcG81O3LNzgB5GyR7znGUO@vX5kfDxuM7RB
+Gear STL File Source: https://www.stlgears.com/
+The gearbox had a 4:1 gear ratio, and all gears had a module of 1 and a pressure angle of 25 degrees. When making your own gearbox, it is best to distance each gear based on the inner diameter (excluding teeth) to ensure proper meshing. There were three gears in total. The smallest gear had ten teeth and was placed on the motor directly. The compound gear had a 20-tooth gear on the bottom and a 12-tooth gear on the top. The compound gear was placed on a rod with a single R4AZ bearing. The final gear was a 24-tooth gear that was placed on the threaded 1/4 rod.
+Additionally, most of the holes these gears had were INACCURATE, and had to be adjusted in some way after they were printed.
