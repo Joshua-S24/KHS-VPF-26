@@ -14,9 +14,9 @@ Below is the documentation for the main components of the float. This was writte
 
 Onshape (Modeling)
 
-STLGears.com \[https://www.stlgears.com/] (Gear Model Generation)
+STLGears.com \[https://www.stlgears.com] (Gear Model Generation)
 
-Gear Generator 2 \[https://geargenerator.com/beta/] (Gear Simulation)
+Gear Generator 2 \[https://geargenerator.com/beta] (Gear Simulation)
 
 
 
